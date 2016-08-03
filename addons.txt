@@ -1,0 +1,39 @@
+Issues and opportunity:
+1. how to arrange css, naming for it
+
+Things getting added:
+
+1.Navigation bar(50types)
+2.Css reset
+3.Head type content
+4.Css Positioning
+5.changing input fields with css
+6. Best way to locate html elemets, class, attributes, css selector
+7. Page layout examples
+8. Name convention { how to name files, functions, css classes and divs}
+
+
+ideology:
+
+1. Simplicity (few contents on page)
+2. Attractive (images and jquery)
+3. multiple functional
+4. All features already built but hidden
+5. Progress bar: on signup and predictions, graph
+6. One destination One way
+7. Constant display of position to user on website
+
+Pages:
+
+1.Index page/landingpage
+2.registration page
+3.sign up popup
+4.HTML5 Page
+5. CSS page
+6.Question page
+7.Quiz page
+8.Forum page
+9.News page
+10.Search page
+11.about us page
+12. Terms of USE page
